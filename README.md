@@ -4,6 +4,6 @@ falkonera - converts CSV file(s) into DDL and DML statements for a relational da
 
 falkonera [OPTIONS]... [INPUTFILE] -l [DDL OUTPUTFILE] -m [DML OUTPUTFILE]
 
--h
+-h help
 
- help
+-s value separator
