@@ -1,4 +1,9 @@
 http://www.ibm.com/support/knowledgecenter/SVU13_7.2.1/com.ibm.ismsaas.doc/import/r_sample_csv_files.html
 http://www.sample-videos.com/download-sample-csv.php
 https://docs.shopify.com/manual/products/import-export
+https://de.wikipedia.org/wiki/Liste_von_Bergen_in_der_Schweiz
+https://de.wikipedia.org/wiki/Kapitel_VII_der_Charta_der_Vereinten_Nationen
+
+
+http://www.convertcsv.com/html-table-to-csv.htm
 
