@@ -27,9 +27,9 @@ options:
 
 Example
 =======
-falkonera example.csv -d example.ddl -m example.dml
+falkonera example.csv -d example.ddl -m example.dml -e error.log
 
-reads csv-file, using names in first line as column name and generating "create table"-statement into example.ddl.
+reads csv-file, using names in first line as column names and generating "create table"-statements into example.ddl.
 remaining lines are transformed into insert-statements and put into example.dml
 
 
