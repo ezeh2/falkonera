@@ -28,6 +28,10 @@ Example
 falkonera example.csv -d example.ddl -m example.dml
 
 reads csv-file, using names in first line as column name and generating "create table"-statement into example.ddl.
+remaining lines are transformed into insert-statements and put into example.dml
+
+
+
 
 
 
