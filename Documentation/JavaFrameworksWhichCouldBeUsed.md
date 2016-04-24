@@ -25,13 +25,28 @@ http://commons.apache.org/proper/commons-csv/
 
 http://commons.apache.org/proper/commons-logging/
 
-# IOC or DI ?
-
-from Spring ?
-http://www.tutorialspoint.com/spring/spring_dependency_injection.htm
-
-from 
+# Dependency Injection Options for Java
 https://keyholesoftware.com/2014/02/17/dependency-injection-options-for-java/
+
+PicoContainer: Yes (seems to have some popularity)
+http://picocontainer.com/introduction.html
+<dependency>
+	<groupId>picocontainer</groupId>
+	<artifactId>picocontainer</artifactId>
+	<version>3</version>
+</dependency>
+
+
+
+
+Using Spring DI: No
+The upside is that if you are already using Spring, enabling and using DI is very easy and makes for a very well integrated approach.
+The downside is that if Spring isn’t your thing or you are trying to add DI to an existing enterprise application, 
+it may be challenging to isolate the small subset of features that you want to use.
+
+Using Java EE8 CDI: No
+It requires a EE-container
+
 
 # templating engine
 
