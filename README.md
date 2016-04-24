@@ -11,11 +11,13 @@ options:
 
 -h: help
 
+-c: comment character (default: #)
+
 -r: record separator  (default: CR)
 
 -s: value separator   (default: comma)
 
--c: comment character (default: #)
+-q: quote character (default: ")
 
 -n: first line does NOT contain column names  (default: first line contains column names)
 
