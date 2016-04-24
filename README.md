@@ -9,7 +9,7 @@ falkonera [OPTIONS]... [INPUTFILE] -l [DDL OUTPUT FILE] -m [DML OUTPUT FILE] -e 
 
 options:
 
--h: *help*
+-h: help
 
 -r: record separator  (default: CR)
 
@@ -21,5 +21,7 @@ options:
 
 -x: SQL syntax (default: mysql)
 
-
+Example
+=======
+falkonera 
 
