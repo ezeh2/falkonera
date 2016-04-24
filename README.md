@@ -2,7 +2,8 @@ Falkonera
 =========
 falkonera - converts CSV file(s) into DDL and DML statements for a relational database
 
-
+Syntax
+------
 falkonera [OPTIONS]... [INPUTFILE] -l [DDL OUTPUT FILE] -m [DML OUTPUT FILE] -e [ERROR LOG FILE]
 
 
