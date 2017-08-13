@@ -37,8 +37,6 @@ http://picocontainer.com/introduction.html
 </dependency>
 
 
-
-
 Using Spring DI: No
 The upside is that if you are already using Spring, enabling and using DI is very easy and makes for a very well integrated approach.
 The downside is that if Spring isn’t your thing or you are trying to add DI to an existing enterprise application, 
